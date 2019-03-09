@@ -7,4 +7,4 @@ When the new movie is clicked it will create giphys the that operate the same as
 
 Demo: https://sally-cardinale.github.io/GiphyAPI/
 
-<img src=“./images/GiphyApp.png”>
+<img src=“images/GiphyApp.png”>
