@@ -1,0 +1,32 @@
+
+body {
+	font-family: 'Lobster', cursive;
+	background-color: lightpink
+}
+
+.jumbotron{
+	background-color: black;
+	color: #ffffff;
+}
+
+#movies{
+	padding: 3%;
+}
+
+div{
+	margin-bottom: 2%;
+}
+
+img {
+	height: 350px;
+	width: 350px;
+}
+
+#form {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#movie-buttons {
+	font-family: 'Inconsolata', monospace;
+}
+
