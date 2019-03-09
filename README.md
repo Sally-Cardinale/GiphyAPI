@@ -6,3 +6,5 @@ When a new movie is added into the search field and the submit button is pushed 
 When the new movie is clicked it will create giphys the that operate the same as the preselected buttons. 
 
 Demo: https://sally-cardinale.github.io/GiphyAPI/
+
+<img src=“./images/GiphyApp.png”>
