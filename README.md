@@ -5,4 +5,4 @@ Each giphy also provides the rating associated with it.
 When a new movie is added into the search field and the submit button is pushed a new button is added to the original buttons.
 When the new movie is clicked it will create giphys the that operate the same as the preselected buttons. 
 
-Demo: 
+Demo: https://sally-cardinale.github.io/GiphyAPI/
